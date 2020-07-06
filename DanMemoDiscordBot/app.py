@@ -113,5 +113,5 @@ async def frnewday(ctx, *search):
     await command_FRnewday.run(client,ctx,*search)
 
 if __name__ == "__main__":
-    TOKEN = os.environ.get("DISCORD_TOKEN_DANMEMO")
+    TOKEN = os.environ.get("NzI5NjMxNDEzMzEzMjA4NDAx.XwL09A.N1w4H6xhh65S5kFiZAT-MhrfAaU")
     client.run(TOKEN)
